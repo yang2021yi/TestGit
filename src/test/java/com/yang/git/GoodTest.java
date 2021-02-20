@@ -1,5 +1,5 @@
 package com.yang.git;
 
-public class TestGit {
+public class GoodTest {
 
 }
